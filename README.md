@@ -1,2 +1,1 @@
-# cm-ff
-fantasy football
+This is a starter template for [Learn Next.js](https://nextjs.org/learn).
