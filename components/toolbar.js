@@ -9,6 +9,8 @@ const Toolbar = () => {
             <div className={styles['flex-item']}><Link href="/rankings">rankings</Link></div>
             <div className={styles['flex-item']}><Link href="/matchups">matchups</Link></div>
             <div className={styles['flex-item']}><Link href="/about">about</Link></div>
+            <div className={styles['flex-item']}><Link href="/">previous seasons</Link></div>
+            <div className={styles['flex-item']}><Link href="/">discord</Link></div>
         </div>
     );
 }
